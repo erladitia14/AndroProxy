@@ -1,0 +1,5 @@
+# AndroProxy uses Python 3 standard library only.
+# No external pip packages are strictly required to run the core gateway!
+#
+# Optional automation / testing tools:
+# requests>=2.31.0

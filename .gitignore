@@ -1,0 +1,19 @@
+# Python virtual environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Runtime State & Credentials (CRITICAL - DO NOT COMMIT)
+pool.json
+pool.json.tmp
+used_ips.json
+*.log
+gateway.log
+serve.log
+
+# Temporary test artifacts & browser runs
+last_page.png
+screenshots/
+*.tmp
